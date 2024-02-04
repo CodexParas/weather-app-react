@@ -29,3 +29,6 @@ firebase.json
 .firebaserc
 firebase-debug.log
 .firebase/*
+
+# notes
+notes.txt
